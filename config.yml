@@ -1,0 +1,8 @@
+default:
+  db_connection:
+    driver: "SQL Server Native Client 11.0"
+    server: "T1PRMDRSQL\SQLPROD"
+    database: "database_name"
+    uid: ""
+    pwd: ""
+    trusted: "Yes"
